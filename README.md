@@ -1,1 +1,1 @@
-# -steeltoe-demo-config
+# test-steeltoe-demo-config
